@@ -4,16 +4,16 @@
 INVESTIGATING THE INTERPLAY BETWEEN PERSONALITY TRAITS, VIDEOGAME PREFERENCES, AND GAME ENVIRONMENT USING MACHINE LEARNING AND GENETIC ALGORITHMS.
 
 # Abstract: 
-Our personalities can dictate how we perceive ourselves, others, our surroundings, and gaming preferences or choices. The relationship between the Big Five (OCEAN) or FFM personality traits and videogame preferences has been investigated by several research studies where relationships between the two have been discovered. Player-centric game design and Procedural Content Generation (PCG) have grown in popularity. The incorporation of the personality-game preference relationship into player-centric game development has not been fully exploited. This study aims to identify personality profiles within a large OCEAN dataset and build a prediction model using Machine Learning or Deep Learning algorithms. A genetic algorithm was used to automatically generate a player-centric game environment suited for the personality profiles. A videogame was developed to visually represent the game environment and make it playable. The game was then evaluated to determine its adaptability and feasibility.
+Our personalities can dictate how we perceive ourselves, others, our surroundings, and gaming preferences or choices. The relationship between the Big Five (OCEAN) or FFM personality traits and videogame preferences has been investigated by several research studies where relationships between the two have been discovered. Player-centric game design and Procedural Content Generation (PCG) have grown in popularity. The incorporation of the personality-game preference relationship into player-centric game development has not been fully exploited. This study aims to identify personality profiles within a large OCEAN dataset and build a prediction model using Machine Learning or Deep Learning algorithms. A genetic algorithm was used to automatically generate a player-centric game environment suited for the personality profiles. A video game was developed to visually represent the game environment and make it playable. The game was then evaluated to determine its adaptability and feasibility.
   
 # Related Media
-## Methodology
+## A. Methodology
 ![Methodology](https://github.com/BennyWW/MSc_AI_RMCE_Project/assets/66873036/b5650ca6-207b-44e7-afd3-f05feafc1d31)
-## Genetic Algorithm Structure
+## B. Genetic Algorithm Structure
 ![GA structure](https://github.com/BennyWW/MSc_AI_RMCE_Project/assets/66873036/417ddf6a-ba58-44db-a1ee-333a4ae4ffdc)
-## OCEAN Personality Survey Questions (From Personality test questions/statements from Open-Source Psychometrics questionnaire)
+## C. OCEAN Personality Survey Questions (From Personality test questions/statements from Open-Source Psychometrics questionnaire)
 ![OCEAN Personality Qns](https://github.com/BennyWW/MSc_AI_RMCE_Project/assets/66873036/090897b5-fd19-4af7-b957-62debfcff7b4)
-## Gameplay Samples
+## D. Gameplay Samples
 ![Cluster 4 (1)](https://github.com/BennyWW/MSc_AI_RMCE_Project/assets/66873036/b3280ed4-2e56-477e-8160-fd4623af14c2)
 ![Cluster 3 (3)](https://github.com/BennyWW/MSc_AI_RMCE_Project/assets/66873036/56403ac5-bb00-4126-87fe-eae4a9572135)
 ![Cluster 2 (3)](https://github.com/BennyWW/MSc_AI_RMCE_Project/assets/66873036/3ad88488-ac03-454e-8a07-27e02d8ca3e3)
