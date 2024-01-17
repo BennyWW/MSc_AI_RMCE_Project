@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b625267ee4ec78040b1373042c850d06, type: 3}
+  m_Name: Spawner Attributes
+  m_EditorClassIdentifier: 
+  ScoutBot_prefab: {fileID: 4429651616632075427, guid: 8f24f85994e03cf43b534989ca23bc30, type: 3}
+  ScoutBot_No: 0
+  WarriorBot_prefab: {fileID: 1994904272915279522, guid: 6343535f9c63e494da26b6b3196b001e, type: 3}
+  WarriorBot_No: 100
+  BossBot_prefab: {fileID: 1994904272915279522, guid: 3c69b326416b2f6428a2510a4ba04bed, type: 3}
+  BossBot_No: 40
+  AllyBot_prefab: {fileID: 1994904272915279522, guid: 077c01cb1a3bed743ada2ca5687530ba, type: 3}
+  AllyBot_No: 200
