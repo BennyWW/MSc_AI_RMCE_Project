@@ -1,0 +1,34 @@
+200 epoch, 50 batchsize:
+
+[Lx = 0-19, L = 20-39, M = 40-59, H = 60-79, Hx = 80-100]   
+
+C1: 	OPN-Hx	CSN-H	EXT-H	AGR-H	N-H
+C2: 	OPN-Hx	CSN-H	EXT-H	AGR-Hx	N-M
+C3: 	OPN-H	CSN-H	EXT-M	AGR-H	N-M
+C4: 	OPN-H	CSN-H	EXT-M	AGR-H	N-H
+
+summary: 
+C1 is characterized by:
+	Very High Opennes
+	High Conscientiousness
+	High Extroversion
+	High Agreeableness
+	High Neuroticism
+C2 is characterized by:
+	Very High Openness
+	High conscientiousness
+	High Extroversion
+	Very High agreeableness
+	Medium Neuroticism
+C3 is characterized by:
+	High Openness
+	High Conscientiousness
+	Medium Extroversion
+	High Agreeableness
+	Medium Neuroticism
+C4 is characterized by:
+	High Openness
+	High Conscientiousness
+	Medium Extroversion
+	High Agreeableness
+	High Neuroticism
